@@ -1,6 +1,6 @@
 # A Leo Sample Array Program
 
-## Run Guide for max value
+## Run Guide for Max Value
 
 An array is a data structure consisting of a collection of elements (values or variables), of same memory size, each identified by at least one array index
 
